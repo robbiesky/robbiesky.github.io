@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>3种改进RAG的检索技术</title>
+      <link href="/2024/06/01/3-Advanced-Document-Retrieval-Techniques-To-Improve-RAG-Systems/"/>
+      <url>/2024/06/01/3-Advanced-Document-Retrieval-Techniques-To-Improve-RAG-Systems/</url>
+      
+        <content type="html"><![CDATA[<p>这篇文章中介绍了三种增强RAG检索能力的方式：</p><ol><li>Query expansion 查询扩展</li><li>Cross-encoder re-ranking 跨编码器重排名</li><li>Embedding adaptors Embedding适配器</li></ol><h1><span id="query-expansion">Query expansion</span></h1><h2><span id="query-expansion-with-a-generated-answer">Query expansion with a generated answer</span></h2><img src="/2024/06/01/3-Advanced-Document-Retrieval-Techniques-To-Improve-RAG-Systems/image.png" width="800px"><h2><span id="query-expansion-with-multiple-related-questions">Query expansion with multiple related questions</span></h2><p>其他内容略过，详见<a href="https://towardsdatascience.com/3-advanced-document-retrieval-techniques-to-improve-rag-systems-0703a2375e1c">原文</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 大模型 </category>
+          
+          <category> RAG </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 大模型 </tag>
+            
+            <tag> RAG </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
